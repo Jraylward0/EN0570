@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=OrderDialog(MainMenu)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ OrderDialog()\n\ @param\ MainMenu\n\ @return\n
+comment1.params=evt
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\n\ actionPerformed()\ \n\ @param\ ActionEvent\ evt\n\ @return\n
+comment2.params=
+comment2.target=void\ processOrder()
+comment2.text=\n\ processOrder()\n\ @param\n\ @return\n
+numComments=3

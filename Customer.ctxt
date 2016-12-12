@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=cID\ sName\ fName\ hNum\ pCode
+comment0.target=Customer(java.lang.Integer,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Customer\n\ Customer()\n\ @param\ Integer\ customerID,\ String\ surname,\ String\ firstName,\ int\ houseNumber,\ String\ postCode\n\ @return\n
+comment1.params=
+comment1.target=java.lang.Integer\ getCustomerID()
+comment1.text=\n\ Accessors\ \n
+comment2.params=
+comment2.target=java.lang.String\ getSurname()
+comment3.params=
+comment3.target=java.lang.String\ getFirstName()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getHouseNumber()
+comment6.params=
+comment6.target=java.lang.String\ getPostCode()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ toString()\n\ @param\n\ @return\n
+comment8.params=
+comment8.target=java.lang.String\ briefString()
+comment8.text=\n\ briefString()\n\ @param\n\ @return\n
+numComments=9
